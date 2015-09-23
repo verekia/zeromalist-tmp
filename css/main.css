@@ -96,7 +96,7 @@ textarea {
    ========================================================================== */
 
 body {
-    margin: 42px auto 0;
+    margin: 42px auto 100px;
     width: 90%;
     padding: 0 5%;
     background: #fbfbfb;
