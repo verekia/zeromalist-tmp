@@ -149,8 +149,35 @@ body {
     margin: 0 5%;
 }
 
+.fb-like {
 
+}
 
+.social-box {
+    height: 107px;
+    margin-top: 24px;
+}
+
+.twitter-follow-button {
+    color: white;
+}
+
+html #mc_embed_signup form {
+    padding: 0;
+}
+
+html #mc_embed_signup input.button {
+    display: inline-block;
+    height: 28px;
+    font-size: 14px;
+    line-height: 28px;
+    /*width: 245px;*/
+}
+
+html #mc_embed_signup input.email {
+    /*width: 404px;*/
+    width: 57.8%;
+}
 
 
 
