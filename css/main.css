@@ -206,6 +206,7 @@ html #mc_embed_signup input.email {
 
 p {
     line-height: 1.5em;
+    margin-bottom: 1.3em;
 }
 
 ::-webkit-input-placeholder {
