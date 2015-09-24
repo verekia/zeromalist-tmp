@@ -122,13 +122,16 @@ body {
     margin-bottom: 24px;
 }
 
-
 .section-42 {
     margin-bottom: 42px;
 }
 
+.section-60 {
+    margin-bottom: 60px;
+}
+
 .h2 {
-    margin-bottom: 30px;
+    margin-bottom: 36px;
 }
 
 .italic {
@@ -179,6 +182,8 @@ html #mc_embed_signup input.button {
     line-height: 28px;
     width: 30%;
     min-width: 181px;
+    background-color: rgb(56, 91, 230);
+    font-weight: normal;
     /*width: 245px;*/
 }
 
