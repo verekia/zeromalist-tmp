@@ -204,7 +204,9 @@ html #mc_embed_signup input.email {
     border-color: rgb(56, 91, 230);
 }
 
-
+p {
+    line-height: 1.5em;
+}
 
 ::-webkit-input-placeholder {
    color: rgba(56, 91, 230, 0.6);
