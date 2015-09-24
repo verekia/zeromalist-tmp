@@ -181,10 +181,15 @@ html #mc_embed_signup input.button {
     font-size: 13px;
     line-height: 28px;
     width: 30%;
-    min-width: 181px;
+    min-width: 190px;
     background-color: rgb(56, 91, 230);
     font-weight: normal;
+    text-indent: -3px;
     /*width: 245px;*/
+}
+
+html #mc_embed_signup input.button:hover {
+    background-color: rgb(76, 111, 250);
 }
 
 html #mc_embed_signup input.email {
@@ -196,9 +201,26 @@ html #mc_embed_signup input.email {
     min-width: 130px;
     font-size: 13px;
     border-radius: 4px;
+    border-color: rgb(56, 91, 230);
 }
 
 
+
+::-webkit-input-placeholder {
+   color: rgba(56, 91, 230, 0.6);
+}
+
+:-moz-placeholder { /* Firefox 18- */
+   color: rgba(56, 91, 230, 0.6);  
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   color: rgba(56, 91, 230, 0.6);  
+}
+
+:-ms-input-placeholder {  
+   color: rgba(56, 91, 230, 0.6);  
+}
 
 
 
