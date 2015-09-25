@@ -142,7 +142,10 @@ body {
     font-weight: bold;
 }
 
-.primary {
+.primary,
+a,
+a:hover,
+a:visited {
     color: rgb(56, 91, 230);
 }
 
@@ -224,6 +227,12 @@ p {
 :-ms-input-placeholder {  
    color: rgba(56, 91, 230, 0.6);  
 }
+
+a {
+
+}
+
+
 
 
 
