@@ -96,16 +96,54 @@ textarea {
    ========================================================================== */
 
 body {
-    margin: 42px auto 100px;
+    margin: 60px auto 100px;
     width: 90%;
     padding: 0 5%;
     background: #fbfbfb;
+    color: #2a2a2a;
+}
+
+ul {
+    padding-left: 16px;
+}
+
+ul li {
+    color: #aaa;
+}
+
+.normal-text-color,
+.normal-text-color:hover,
+.normal-text-color:active,
+.normal-text-color:visited {
+    color: #2a2a2a;
+}
+
+.normal-text-color:hover {
+    color: #2a2a2a;
 }
 
 @media only screen and (min-width : 800px) {
 
     body {
         width: 700px;
+    }
+}
+
+@media only screen and (min-width : 650px) {
+
+    .twin-cols .col {
+        width: 47%;
+        display: inline-block;
+        vertical-align: top;
+    }
+
+    .twin-cols .col:first-of-type {
+        padding-right: 5%;
+        width: 49%;
+    }
+
+    .twin-cols .col:last-of-type {
+        width: 45%;
     }
 
 }
@@ -116,6 +154,14 @@ body {
 
 .text-no-bold {
     font-weight: normal;
+}
+
+.no-decoration {
+    text-decoration: none;
+}
+
+.section-16 {
+    margin-bottom: 16px;
 }
 
 .section-24 {
@@ -145,6 +191,38 @@ body {
 
 .bold {
     font-weight: bold;
+}
+
+.island {
+    padding: 16px 24px;
+    background: #f7f7f7;
+    border: 1px solid #ddd;
+}
+
+.badge {
+    display: inline-block;
+    background: rgb(56, 91, 230);
+    border-radius: 3px;
+    padding: 0px 5px;
+    color: white;
+    font-size: 14px;
+    font-weight: normal;
+    margin-left: 2px;
+    position: relative;
+    bottom: 1px;
+}
+
+h3 .badge {
+    bottom: 2px;
+}
+
+.subtle-text {
+    color: #999;
+    font-size: 14px;
+    position: relative;
+    bottom: 1px;
+    font-weight: normal;
+    margin-left: 6px;
 }
 
 .primary,
