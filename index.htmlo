@@ -1,0 +1,48 @@
+<!-- htmlo: components/head -->
+<!-- htmlo: content/title -->
+<!-- htmlo: content/intro -->
+<!-- htmlo: content/toc -->
+
+        <h2 id="section-productivity" class="h2 text-center text-no-bold title-decoration">Productivity</h2>
+
+<!-- htmlo: topics/inbox -->
+<!-- htmlo: topics/feeds -->
+<!-- htmlo: topics/phone -->
+
+        <h2 id="section-computer" class="h2 text-center text-no-bold title-decoration">Computer</h2>
+
+<!-- htmlo: topics/files -->
+<!-- htmlo: topics/computer -->
+<!-- htmlo: topics/documents -->
+<!-- htmlo: topics/desktop -->
+
+        <h2 id="section-home" class="h2 text-center text-no-bold title-decoration">Home</h2>
+
+<!-- htmlo: topics/clutter -->
+<!-- htmlo: topics/hidden -->
+<!-- htmlo: topics/wallet -->
+
+        <h2 id="section-travel" class="h2 text-center text-no-bold title-decoration">Travel</h2>
+
+<!-- htmlo: topics/commute -->
+<!-- htmlo: topics/luggage -->
+
+        <h2 id="section-clothes" class="h2 text-center text-no-bold title-decoration">Clothes</h2>
+
+<!-- htmlo: topics/wardrobe -->
+<!-- htmlo: topics/cotton -->
+<!-- htmlo: topics/colors -->
+
+        <h2 id="section-health" class="h2 text-center text-no-bold title-decoration">Health, and more</h2>
+
+        <div class="section-42">
+            <p>This is a special section for my other personal zeroes that are mostly related to health. They are not really minimalistic, but I thought I'd share a few more ideas here.</p>
+
+<!-- htmlo: topics/meat -->
+<!-- htmlo: topics/shampoo -->
+<!-- htmlo: topics/drugs -->
+
+        </div>
+
+<!-- htmlo: content/about -->
+<!-- htmlo: components/bottom -->
